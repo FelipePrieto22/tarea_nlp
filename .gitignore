@@ -1,2 +1,5 @@
 # Ignorar todos los archivos CSV
 *.csv
+
+!output.csv
+!output1.csv
